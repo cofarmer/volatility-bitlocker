@@ -38,6 +38,7 @@ There could be many causes.
 
 If you suspect the plugin isn't working for you then I would love to know.
 
-## 新增Bitlocker FVEK密钥解析
-### 新增Win10 18362 64bits FVEK密钥解析导出
-### 调整优化代码
+### 新增Bitlocker FVEK密钥解析
+**Update 2021-04-07:**
+- 新增Win10 18362 64bits FVEK密钥解析导出
+- 调整优化代码
